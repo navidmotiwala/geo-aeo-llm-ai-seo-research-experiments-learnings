@@ -38,95 +38,64 @@ We removed the AI-generated content and humanized it. However, once your website
 We also did to remove **Google penalty**
 
 ### Content Pruning
-
 - Identified pages targeting the same keywords and search intent.
-
 - Merged similar articles into a single comprehensive page.
-
 - Redirected low-quality pages to the strongest version using 301 redirects
-
 - Removed thin, outdated, and low-value content from the site
 
 ### Recovery Strategy After a Google Penalty
-
 - Conducted a full content quality audit, technical audit
-
 - Removed or improved low-quality and AI-generated content
-
 - Fixed technical SEO issues and improved site trust signals
-
 - Monitored indexing and ranking recovery through Google Search Console
 
 ### Large-Scale Content Audits Across Thousands of URLs
-
 - Exported all URLs and analyzed traffic, rankings, backlinks, and indexing status
-
 - Categorized pages into keep, update, merge, redirect, or remove
-
 - Identified patterns affecting content quality and search performance
 
 ### Identifying Programmatic SEO Quality Issues
-
 - Audited template-generated pages for duplication and thin content
-
 - Found pages with minimal unique value beyond templates
-
 - Improved page differentiation and added unique insights
 
 ### Monitoring Indexing, Crawl Budget, and Content Quality Signals
-
 - Tracked indexed vs. non-indexed pages in Google Search Console
-
 - Monitored content performance and quality metrics regularly
 
 ### Competitor Content Gap Analysis in Highly Competitive YMYL Industries
-
 - Analyzed competitors ranking pages and topic coverage
-
 - Identified missing topics, entities, and user intents
-
 - Created content plans to fill strategic gaps
 
 ### Building Topical Authority Through Content Clusters and Entity-Based SEO
-
 - Organized content into topic clusters around core themes
-
 - Strengthened internal linking between related articles
-
 - Covered entities and subtopics are comprehensively
-
 - Improved semantic relevance and topical depth
 
 ### Reducing Reliance on LLM-Generated Content
-
 - Established editorial standards for content creation
-
 - Required human review and fact-checking before publishing
-
 - Added original insights, research, and expert opinions
-
 - Used AI for assistance rather than complete content generation
 
 ## Year: September 2025: Where AI Platforms Actually Train?
 
 Major AI platforms train or augment their systems using a mix of:
-
 - Licensed publisher content
-
 - Public web content (Wikipedia, forums, open-source books)
-
 - User-generated content (Reddit, GitHub, etc.)
-
 - Strategic partnerships with publishers and content providers
 
 | **Platform**           | **Publisher Deals**                                                     | **Forum Partnerships** | **Training Materials**                                                                |
 |------------------------|-------------------------------------------------------------------------|------------------------|---------------------------------------------------------------------------------------|
-| **OpenAI (ChatGPT)**   | Condé Nast, Hearst, WSJ Adding: Washington Post, Guardian, Axios (2025) | None explicit          | • Wikipedia• Licensed news• Forums (GitHub, arXiv, Substack)• Open sources (Books1/2) |
-| **Perplexity**         | ADWEEK, LA Times (Revenue sharing)                                      | None explicit          | • Aggregated LLMs• Wikipedia• Forums                                                  |
-| **DeepSeek**           | No confirmed deals                                                      | None explicit          | • Chinese-language web• Wikipedia• Forums                                             |
-| **Meta (LLaMA)**       | ReutersExpanding                                                        | None explicit          | • Wikipedia• Open sources (Gutenberg, Books3)• Forums                                 |
-| **Google (Gemini)**    | Associated Press20+ deals                                               | Reddit (licensed)      | • Reddit (licensed)• YouTube transcripts• Wikipedia• AP news                          |
-| **Anthropic (Claude)** | No confirmed deals                                                      | None explicit          | • Wikipedia• Open sources• Forums                                                     |
+| **OpenAI (ChatGPT)**   | Condé Nast, Hearst, WSJ; adding: Washington Post, Guardian, Axios (2025) | None explicit          | <br>• Wikipedia<br>• Licensed news<br>• Forums (GitHub, arXiv, Substack)<br>• Open sources (Books1/2) |
+| **Perplexity**         | ADWEEK, LA Times (Revenue sharing)                                      | None explicit          | <br>• Aggregated LLMs<br>• Wikipedia<br>• Forums                                                  |
+| **DeepSeek**           | No confirmed deals                                                      | None explicit          | <br>• Chinese-language web<br>• Wikipedia<br>• Forums                                             |
+| **Meta (LLaMA)**       | Reuters Expanding                                                        | None explicit          | <br>• Wikipedia<br>• Open sources (Gutenberg, Books3)<br>• Forums                                 |
+| **Google (Gemini)**    | Associated Press; 20+ deals                                               | Reddit (licensed)      | <br>• Reddit (licensed)<br>• YouTube transcripts<br>• Wikipedia<br>• AP news                          |
+| **Anthropic (Claude)** | No confirmed deals                                                      | None explicit          | <br>• Wikipedia<br>• Open sources<br>• Forums                                                     |
 
 **Question:** How do answer engines (like perplexity), ChatGPT, and Google AI overviews change the SEO dynamic now?**
 
@@ -137,19 +106,12 @@ Major AI platforms train or augment their systems using a mix of:
 My Learnings over the last 1 and a half years
 
 ## Year: 2025: SERP Controversy
-
 - [Google v. SerpApi: We’re filing a Motion to Dismiss. Here’s why we’re in the right.](https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/)
-
 - [Google sues SerpApi over scraping and reselling Search data](https://searchengineland.com/google-sues-serpapi-466541)
-
 - [Reddit sues Perplexity, SerpApi over scraping Google Search data](https://searchengineland.com/reddit-sues-perplexity-serpapi-scraping-google-463681)
-
 - [Reddit's Lawsuit is a Dangerous Attempt to Expand Platform Power](https://serpapi.com/blog/reddits-lawsuit-is-a-dangerous-attempt-to-expand-platform-power/)
-
 - [Google Files DMCA Suit Targeting SerpApi’s SERP Scraping](https://www.searchenginejournal.com/google-files-dmca-suit-targeting-serpapis-serp-scraping/563847/)
-
 - [SerpApi Challenges Google's Right To Sue Over SERP Scraping](https://www.searchenginejournal.com/serpapi-challenges-googles-right-to-sue-over-serp-scraping/568084/)
-
 - [Why we’re taking legal action against SerpApi’s unlawful scraping](https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/)
 
 ## Date: 20 January 2026
@@ -243,47 +205,30 @@ Cyrus Shepard analyzed **400+ winning and losing websites** and found that Googl
 ### Important Findings from article
 
 **1. Offer a Product or Service**
-
 - 70% of winning sites sell a product/service.
-
 - Only 35% of losing sites do.
-
 - Google appears to favor businesses over pure informational publishers.
-
 - **Example:** Groww is not just publishing "What is a Mutual Fund?" content. Users can directly invest in mutual funds, stocks, ETFs, F&O, IPOs, fixed deposits, and US stocks from the platform. The content supports a financial product ecosystem.
 
 **2. Enable Task Completion**
-
 - Winning sites help users do something, not just read
-
 - Users can complete their journey without leaving the site.
-
 - **Examples:** SIP Calculator, Lumpsum Calculator, SWP Calculator, Brokerage Calculator, EMI Calculator, Return Calculators, Fund Comparison Tools, Portfolio Tracking, Stock Screeners. Instead of just reading, users can take action.
 
 **3. Own Proprietary Assets**
-
 - Unique data, Original research, User-generated content, Software/tools, Databases. These are difficult for competitors and AI systems to replicate.
-
 - Example: Groww has proprietary fund data, stock market data, fund performance metrics, investor dashboards, watchlists, portfolio analytics, brokerage data, IPO information, and investment insights generated from its own platform ecosystem. Competitors and AI models cannot easily replicate this data.
 
 **4. Maintain Tight Topical Focus**
-
 - Niche websites outperform broad websites.
-
 - Deep expertise in one area beats covering many unrelated topics.
-
 - Authority through specialization is becoming more important.
-
 - Example: All content revolves around investing, mutual funds, stocks, IPOs, taxation, personal finance, calculators, and wealth creation. They are not publishing unrelated topics like travel, health, entertainment, or recipes. This strengthens topical authority in finance.
 
 **5. Build a Strong Brand**
-
 - Winning sites receive more branded searches.
-
 - Users actively search for the brand itself.
-
 - Google sees brand demand as a trust signal.
-
 - **Example:** Millions of users search terms such as "Groww SIP Calculator", "Groww Login", "Groww Mutual Funds", "Groww Brokerage Calculator", "Groww App", and "Groww IPO". High branded search demand signals trust and popularity to Google.
 
 ## Date: 15 May 2026
@@ -596,15 +541,10 @@ Players like Zerodha, Investopedia, Bajaj Finserv, and Angel One are ranking. Al
 **Link:** [From Keywords to Entities: The Evolution of Search Understanding - The HOTH](https://www.thehoth.com/blog/from-keywords-to-entities/)
 
 ### Google AI Guides:
-
 - [A new resource for optimizing for generative AI in Google Search](https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing)
-
 - [Google's Guide to Optimizing for Generative AI Features on Google Search \| Google Search Central \| Documentation \| Google for Developers](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide)
-
 - [Google Search's guidance on using generative AI content on your website](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content)
-
 - [A Guide to Google Search Ranking Systems](https://developers.google.com/search/docs/appearance/ranking-systems-guide)
-
 - [How people are using AI Mode in the U.S.](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/AI-Mode-US-Insights.pdf)
 
 ### Note 1:
@@ -699,19 +639,12 @@ Referral traffic from ChatGPT can drop for **two broad reasons**: ChatGPT is sen
 ### 1. Your pages are being cited less often
 
 ChatGPT does not display the same websites for every similar query. Its source selection can change based on:
-
 - Relevance to the exact prompt
-
 - Freshness of the page
-
 - Originality and depth
-
 - Authority and brand recognition
-
 - Clear factual support
-
 - Accessibility to OpenAI’s search crawler
-
 - Competing pages becoming stronger
 
 A page may still rank well on Google but lose ChatGPT citations because AI search evaluates and combines sources differently.
@@ -719,15 +652,10 @@ A page may still rank well on Google but lose ChatGPT citations because AI searc
 ### 2. Users are getting the answer without clicking
 
 ChatGPT often summarises the required information directly in the response. A website can continue appearing as a citation while receiving fewer clicks, especially for:
-
 - Definitions
-
 - Basic informational queries
-
 - How-to questions
-
 - Comparison queries
-
 - FAQ-style searches
 
 This means your **AI visibility may not have fallen as much as your referral sessions suggest**. The click-through rate may simply have declined.
@@ -739,13 +667,9 @@ OpenAI says links from ChatGPT Search generally contain:
 utm_source=chatgpt.com
 
 Therefore, the traffic may appear in GA4 under:
-
 - chatgpt.com / referral
-
 - chatgpt.com / (not set)
-
 - chatgpt.com / referral within a custom channel
-
 - A campaign-based traffic source rather than the Referral channel
 
 Check **Session source**, not only the default channel group. OpenAI confirms that ChatGPT Search links use utm_source=chatgpt.com for tracking. ([OpenAI Help Center](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq?utm_source=chatgpt.com))
@@ -753,17 +677,11 @@ Check **Session source**, not only the default channel group. OpenAI confirms th
 ### 4. Some visits may now be counted as direct traffic
 
 Traffic-source information can be lost when:
-
 - The referrer is stripped
-
 - A redirect removes UTM parameters
-
 - The user moves between apps and browsers
-
 - Consent tools prevent analytics from loading
-
 - The landing page redirects through another domain
-
 - The user copies and pastes the URL instead of clicking it
 
 GA4 places visits without identifiable referral information under (direct) / (none). ([Google Help](https://support.google.com/analytics/answer/15258820?hl=en&utm_source=chatgpt.com))
@@ -785,15 +703,10 @@ User-agent: OAI-SearchBot
 Disallow: /
 
 Also check whether Cloudflare, your CDN, security plugin or server firewall is returning:
-
 - 403 responses
-
 - 429 responses
-
 - CAPTCHA challenges
-
 - JavaScript-only pages
-
 - Geo-based restrictions
 
 A robots.txt update can take roughly 24 hours to be reflected by OpenAI’s systems. ([OpenAI Developers](https://developers.openai.com/api/docs/bots?utm_source=chatgpt.com))
@@ -801,23 +714,14 @@ A robots.txt update can take roughly 24 hours to be reflected by OpenAI’s syst
 ### 6. Important content changed or disappeared
 
 Referral traffic can fall after:
-
 - URL migrations
-
 - Content consolidation
-
 - Canonical-tag changes
-
 - Noindex implementation
-
 - Redirects
-
 - Removal of FAQ sections
-
 - Changes to headings or page intent
-
 - Publishing thinner AI-generated content
-
 - Updating a page in a way that removes the answer ChatGPT previously cited
 
 Compare the affected landing pages before and after the decline.
@@ -825,23 +729,14 @@ Compare the affected landing pages before and after the decline.
 ### 7. Competitors have created more citation-friendly content
 
 ChatGPT tends to benefit from pages that provide extractable evidence. Competitors may now offer:
-
 - Concise definitions
-
 - Direct answers under descriptive headings
-
 - Updated statistics
-
 - Expert quotations
-
 - Comparison tables
-
 - Original research
-
 - First-party data
-
 - Author information
-
 - Stronger source citations
 
 Generic 1,000-word articles without distinctive evidence are easier for AI systems to replace with other sources.
@@ -851,17 +746,11 @@ Generic 1,000-word articles without distinctive evidence are easier for AI syste
 ChatGPT referral traffic is often concentrated across a small number of pages. If interest in those questions drops, total traffic can fall sharply.
 
 Look at:
-
 - Individual landing pages
-
 - Country
-
 - Device
-
 - Weekday
-
 - Query theme
-
 - New versus returning users
 
 Do not assess ChatGPT only at the domain-wide level.
@@ -921,21 +810,13 @@ This prevents you from missing variations in the source field.
 ## What to do next
 
 First, verify tracking and crawlability. Then improve the pages that previously attracted ChatGPT traffic by adding:
-
 - A direct answer near the beginning
-
 - Clear H2 questions
-
 - Recent, properly sourced evidence
-
 - Author credentials
-
 - First-party experience or data
-
 - Unique comparisons or expert commentary
-
 - Updated publication and revision dates
-
 - Descriptive titles that match conversational prompts
 
 Do not optimise only for the phrase “ChatGPT traffic.” Optimise pages to become the **best supportable source for a specific question**.
@@ -958,17 +839,11 @@ The most important first check is to identify the exact date of the decline. A s
 AI is like politics. Everyone claims to “know it” But only a few actually thrive in the real trenches. Without deep SEO expertise, you are just another opinion in the crowd.
 
 ### Opinion
-
 - I want to share a few more takeaways about this topic:
-
 - AI doesn't rely on a single source. It cross-references information from multiple places.
-
 - Your website is usually the source of truth for current information, but external sources provide context, reputation, and user sentiment.
-
 - If enough websites repeat outdated or incorrect information, AI may start treating it as consensus.
-
 - Not all sources carry the same weight. Official websites, LinkedIn, Crunchbase, review platforms, and reputable news outlets tend to be more influential than random blogs or forum posts.
-
 - The more consistent your information is across the web, the more confident AI can be in its answers.
 
 This is why "digital hygiene" is becoming increasingly important.
