@@ -330,7 +330,7 @@ As more brands, agencies, and SEO teams adopt similar AI-generated meta title pa
 
 This raises an important question: If AI is driving brands toward similar optimization patterns, will Google eventually need to reward uniqueness and non-commodity positioning more aggressively to maintain SERP diversity?
 
-**Keyword: equity fund**
+### Keyword: equity fund
 
 ![Original screenshot](media/image29.png)
 
@@ -340,7 +340,7 @@ This raises an important question: If AI is driving brands toward similar optimi
 
 ![Original screenshot](media/image2.png)
 
-**Keyword: fixed income**
+### Keyword: fixed income
 
 ![Original screenshot](media/image1.png)
 
@@ -348,7 +348,7 @@ This raises an important question: If AI is driving brands toward similar optimi
 
 ![Original screenshot](media/image60.png)
 
-**Keyword: fund of funds**
+### Keyword: fund of funds
 
 ![Original screenshot](media/image23.png)
 
@@ -360,7 +360,7 @@ This raises an important question: If AI is driving brands toward similar optimi
 
 ![Original screenshot](media/image30.png)
 
-**Keyword: hybrid fund**
+### Keyword: hybrid fund
 
 ![Original screenshot](media/image76.png)
 
@@ -374,7 +374,7 @@ This raises an important question: If AI is driving brands toward similar optimi
 
 ![Original screenshot](media/image15.png)
 
-**Keyword: index fund**
+### Keyword: index fund
 
 ![Original screenshot](media/image46.png)
 
@@ -406,15 +406,15 @@ I searched irrelevant keywords just to see whether they are ranking in AI overvi
 
 In my opinion, **here old age SEO saying works**, like focus on good content in detail (I am not saying commodity or non-commodity, but helpful content), page speed, domain age, domain authority, reliability, user trust (who repeatedly rely on these websites for information), basic SEO, etc., etc. Commodity or Non-commodity is nothing but old wine in a new bottle (Helpful Content Update)
 
-**Keyword: 3cd full form**
+### Keyword: 3cd full form
 
 ![Original screenshot](media/image80.png)
 
-**Keyword: 194 b tds**
+### Keyword: 194 b tds
 
 ![Original screenshot](media/image9.png)
 
-**Keyword: up me sone ka bhav**
+### Keyword: up me sone ka bhav
 
 ![Original screenshot](media/image53.png)
 
@@ -436,33 +436,33 @@ In my opinion, **here old age SEO saying works**, like focus on good content in 
 
 ![Original screenshot](media/image11.png)
 
-**Keyword: 1991 liberalisation**
+### Keyword: 1991 liberalisation
 
 ![Original screenshot](media/image25.png)
 
-**Keyword: 799 jio plan**
+### Keyword: 799 jio plan
 
 ![Original screenshot](media/image79.png)
 
 ![Original screenshot](media/image44.png)
 
-**Keyword: bank hadtal**
+### Keyword: bank hadtal
 
 ![Original screenshot](media/image40.png)
 
-**Keyword: bhel ofs**
+### Keyword: bhel ofs
 
 ![Original screenshot](media/image20.png)
 
-**Keyword: basket order**
+### Keyword: basket order
 
 ![Original screenshot](media/image3.png)
 
-**Keyword: block deal**
+### Keyword: block deal
 
 ![Original screenshot](media/image84.png)
 
-**Keyword: broking**
+### Keyword: broking
 
 ![Original screenshot](media/image16.png)
 
@@ -470,51 +470,51 @@ In my opinion, **here old age SEO saying works**, like focus on good content in 
 
 ### Translated Regional Content Coming in Google AI Overview
 
-**Keyword: cagr meaning in tamil**
+### Keyword: cagr meaning in tamil
 
 ![Original screenshot](media/image63.png)
 
-**Keyword: dii**
+### Keyword: dii
 
 ![Original screenshot](media/image71.png)
 
-**Keyword: assam da**
+### Keyword: assam da
 
 ![Original screenshot](media/image52.png)
 
-**Keyword: flipkart loss**
+### Keyword: flipkart loss
 
 ![Original screenshot](media/image7.png)
 
-**Keyword: week 52**
+### Keyword: week 52
 
 ![Original screenshot](media/image10.png)
 
-**Keyword: gst importance**
+### Keyword: gst importance
 
 ![Original screenshot](media/image5.png)
 
-**Keyword: all fo**
+### Keyword: all fo
 
 ![Original screenshot](media/image86.png)
 
-**Keyword: bullish harami**
+### Keyword: bullish harami
 
 ![Original screenshot](media/image73.png)
 
-**Keyword: below 20**
+### Keyword: below 20
 
 ![Original screenshot](media/image42.png)
 
-**Keyword: rksv**
+### Keyword: rksv
 
 ![Original screenshot](media/image8.png)
 
-**Keyword: silver price 1970**
+### Keyword: silver price 1970
 
 ![Original screenshot](media/image31.png)
 
-**Keyword: 2 split**
+### Keyword: 2 split
 
 Players like Zerodha, Investopedia, Bajaj Finserv, and Angel One are ranking. Also, players like flipart, hevy, croma, voltas, rentmojo, fitbod, puregym, instagram, and training.fit are ranking
 
@@ -526,15 +526,15 @@ Players like Zerodha, Investopedia, Bajaj Finserv, and Angel One are ranking. Al
 
 ![Original screenshot](media/image82.png)
 
-**Keyword: bsda**
+### Keyword: bsda
 
 ![Original screenshot](media/image67.png)
 
-**Keyword: molbio**
+### Keyword: molbio
 
 ![Original screenshot](media/image17.png)
 
-**Keyword: about gold**
+### Keyword: about gold
 
 ![Original screenshot](media/image24.png)
 
