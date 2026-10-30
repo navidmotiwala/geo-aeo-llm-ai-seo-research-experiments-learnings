@@ -1,12 +1,14 @@
-**Q.)** If Google disappeared tomorrow, would we still build the page for our users?
+# GEO, AEO, LLM and AI SEO: Research, Experiments and Learnings
+
+**Question:** If Google disappeared tomorrow, would we still build the page for our users?
 
 **If the answer is yes**, because the page helps users make decisions, compare options, or discover content. **If the answer is no**, because the page mainly exists to target another keyword variation, then it is much closer to the type of content Google has been scrutinizing.
 
-**<span class="mark">Year: 2023</span>  
-Industry:** Real Estate / PropTech  
-**Website Type:** Residential Property & Project Discovery Platform  
-**Country:** India**  
-Geographic Focus:** Mumbai Metropolitan Region (Mumbai, Thane, Navi Mumbai)  
+## Year: 2023
+**Industry:**** Real Estate / PropTech
+**Website Type:** Residential Property & Project Discovery Platform
+**Country:** India
+**Geographic Focus:**** Mumbai Metropolitan Region (Mumbai, Thane, Navi Mumbai)
 **Key Competitors:** MagicBricks, Housing.com, 99acres, Square Yards
 
 I was working on a **PropTech project**, and our website was undergoing migration. Within a span of 6 months, the website went through migration twice. First, the client changed the website architecture and URL structure, and after 4 months, they decided to change the website design. There were a lot of issues on the website, and most of them were pending resolution from the website developer's side. The website pages were not fast, there were a lot of UI/UX issues, and meta tags and header tags were missing on most pages. Schema was also missing on the developers page, blog page, press release page, and other pages.
@@ -19,9 +21,9 @@ This experience taught me that strong topical relevance, content quality, and so
 
 I learned one thing: SEO is important, and if you work on the basics, it is possible to appear in Google AI Overview. Technical SEO is good, but strong fundamentals often have a greater impact on search visibility than many people realize.
 
-**<span class="mark">Year: 2024 to 2025</span>  
-Industry:** Cryptocurrency, Casino & Gambling  
-**Website Type:** News  
+## Year: 2024 to 2025
+**Industry:**** Cryptocurrency, Casino & Gambling
+**Website Type:** News
 **Country:** USA, UK, UAE, Canada
 
 I was working on highly competitive websites in the news category, covering cryptocurrency, crypto price prediction pages, casino, and gambling. I worked on three websites, and all of them were in the news category.
@@ -34,7 +36,7 @@ We removed the AI-generated content and humanized it. However, once your website
 
 We also did to remove **Google penalty**
 
-**Content Pruning**
+### Content Pruning
 
 - Identified pages targeting the same keywords and search intent.
 
@@ -44,7 +46,7 @@ We also did to remove **Google penalty**
 
 - Removed thin, outdated, and low-value content from the site
 
-**Recovery Strategy After a Google Penalty**
+### Recovery Strategy After a Google Penalty
 
 - Conducted a full content quality audit, technical audit
 
@@ -54,7 +56,7 @@ We also did to remove **Google penalty**
 
 - Monitored indexing and ranking recovery through Google Search Console
 
-**Large-Scale Content Audits Across Thousands of URLs**
+### Large-Scale Content Audits Across Thousands of URLs
 
 - Exported all URLs and analyzed traffic, rankings, backlinks, and indexing status
 
@@ -62,7 +64,7 @@ We also did to remove **Google penalty**
 
 - Identified patterns affecting content quality and search performance
 
-**Identifying Programmatic SEO Quality Issues**
+### Identifying Programmatic SEO Quality Issues
 
 - Audited template-generated pages for duplication and thin content
 
@@ -70,13 +72,13 @@ We also did to remove **Google penalty**
 
 - Improved page differentiation and added unique insights
 
-**Monitoring Indexing, Crawl Budget, and Content Quality Signals**
+### Monitoring Indexing, Crawl Budget, and Content Quality Signals
 
 - Tracked indexed vs. non-indexed pages in Google Search Console
 
 - Monitored content performance and quality metrics regularly
 
-**Competitor Content Gap Analysis in Highly Competitive YMYL Industries**
+### Competitor Content Gap Analysis in Highly Competitive YMYL Industries
 
 - Analyzed competitors ranking pages and topic coverage
 
@@ -84,7 +86,7 @@ We also did to remove **Google penalty**
 
 - Created content plans to fill strategic gaps
 
-**Building Topical Authority Through Content Clusters and Entity-Based SEO**
+### Building Topical Authority Through Content Clusters and Entity-Based SEO
 
 - Organized content into topic clusters around core themes
 
@@ -94,7 +96,7 @@ We also did to remove **Google penalty**
 
 - Improved semantic relevance and topical depth
 
-**Reducing Reliance on LLM-Generated Content**
+### Reducing Reliance on LLM-Generated Content
 
 - Established editorial standards for content creation
 
@@ -104,7 +106,7 @@ We also did to remove **Google penalty**
 
 - Used AI for assistance rather than complete content generation
 
-**<span class="mark">Year: September 2025: Where AI Platforms Actually Train?</span>**
+## Year: September 2025: Where AI Platforms Actually Train?
 
 Major AI platforms train or augment their systems using a mix of:
 
@@ -125,15 +127,15 @@ Major AI platforms train or augment their systems using a mix of:
 | **Google (Gemini)**    | Associated Press20+ deals                                               | Reddit (licensed)      | • Reddit (licensed)• YouTube transcripts• Wikipedia• AP news                          |
 | **Anthropic (Claude)** | No confirmed deals                                                      | None explicit          | • Wikipedia• Open sources• Forums                                                     |
 
-**<span class="mark">Q.) How do answer engines (like perplexity), ChatGPT, and Google AI overviews change the SEO dynamic now?</span>**
+**Question:** How do answer engines (like perplexity), ChatGPT, and Google AI overviews change the SEO dynamic now?**
 
-<span class="mark">A.) The fundamentals are still the same its just the information retrieval is happening at Omni search landscape, and optimization has to take place at both aspects, Google and AI search, but the contribution of AI search is still small as compared to Google.</span>
+**Answer:** The fundamentals are still the same its just the information retrieval is happening at Omni search landscape, and optimization has to take place at both aspects, Google and AI search, but the contribution of AI search is still small as compared to Google.
 
-**<span class="mark">Year: 2025: AI Risks and Challenges</span>**
+## Year: 2025: AI Risks and Challenges
 
-<span class="mark">My Learnings over the last 1 and a half years</span>
+My Learnings over the last 1 and a half years
 
-**<span class="mark">Year: 2025: SERP Controversy</span>**
+## Year: 2025: SERP Controversy
 
 - [Google v. SerpApi: We’re filing a Motion to Dismiss. Here’s why we’re in the right.](https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/)
 
@@ -149,7 +151,7 @@ Major AI platforms train or augment their systems using a mix of:
 
 - [Why we’re taking legal action against SerpApi’s unlawful scraping](https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/)
 
-**<span class="mark">Date: 20 January 2026</span>**
+## Date: 20 January 2026
 
 Link: <https://bsky.app/profile/johnmu.com/post/3m6dayx6iyc2r>
 
@@ -157,87 +159,87 @@ Link: <https://bsky.app/profile/johnmu.com/post/3m6dayx6iyc2r>
 
 ![Original screenshot](media/image13.png)
 
-**<span class="mark">Date: 03 February 2026</span>**
+## Date: 03 February 2026
 
 **URL:** <https://lilyraynyc.substack.com/p/is-google-finally-cracking-down-on>
 
 From the above article, I have one question
 
-**Q.)** If an educational website has a category page where 1000+ DIY projects are posted. Now they have created multiple listicle pages. For example: 10 best home automation projects. All 10 projects belong to the same website. Will that also be affected? Should they include other websites projects too in those 10 projects? What will be the best practice?
+**Question:** If an educational website has a category page where 1000+ DIY projects are posted. Now they have created multiple listicle pages. For example: 10 best home automation projects. All 10 projects belong to the same website. Will that also be affected? Should they include other websites projects too in those 10 projects? What will be the best practice?
 
-**A.)** Well, it depends! Did you publish these “10 best blah blah” pages in the past 2 months? You know why you did it; Google knows why you did it! They might/should nuke them because you are spamming SERP. If you build these pages over 3-4 years, then you are safe.
+**Answer:** Well, it depends! Did you publish these “10 best blah blah” pages in the past 2 months? You know why you did it; Google knows why you did it! They might/should nuke them because you are spamming SERP. If you build these pages over 3-4 years, then you are safe.
 
-**<span class="mark">My Learnings:</span>**
+### My Learnings:
 
-[<span class="mark">https://www.thehoth.com/blog/content-decay-ai/</span>](https://www.thehoth.com/blog/content-decay-ai/)
+[https://www.thehoth.com/blog/content-decay-ai/](https://www.thehoth.com/blog/content-decay-ai/)
 
-**<span class="mark">Year: March 2026</span>**
+## Year: March 2026
 
-**<span class="mark">Q.) Google Indexing Crisis in 2026: Is your AI content at risk?</span>**
+**Question:** Google Indexing Crisis in 2026: Is your AI content at risk?**
 
-<span class="mark">**A.)** Why are " technically perfect " sites failing? Your website can have a fast loading speed, a clean sitemap, and good Core Web Vitals, and still disappear from Google’s index because in 2026, technical SEO is no longer enough; Google is filtering content based on value, not just technical health.</span>
+**Answer:** Why are " technically perfect " sites failing? Your website can have a fast loading speed, a clean sitemap, and good Core Web Vitals, and still disappear from Google’s index because in 2026, technical SEO is no longer enough; Google is filtering content based on value, not just technical health.
 
-<span class="mark">A growing SEO problem right now is “Crawled – currently not indexed,” where Google sees your page but still chooses not to index it because technically correct content no longer equals valuable content.</span>
+A growing SEO problem right now is “Crawled – currently not indexed,” where Google sees your page but still chooses not to index it because technically correct content no longer equals valuable content.
 
-<span class="mark">The biggest trigger for an indexing purge is AI content at scale; publishing large amounts of generic "commodity content" that repeats existing information, adds no original insight, and looks mass-produced is being rejected.</span>
+The biggest trigger for an indexing purge is AI content at scale; publishing large amounts of generic "commodity content" that repeats existing information, adds no original insight, and looks mass-produced is being rejected.
 
-<span class="mark">One dangerous reality in 2026 is that if AI can generate a similar version of your article in seconds, Google has little reason to keep your page indexed, with the hardest-hit categories being SaaS, SEO, YMYL websites, and informational “how-to” content because these topics are easiest to replicate. This creates the “MT. AI Cascade,” a multi-LLMs crisis where dropping visibility in Google causes AI tools to stop trusting your content, impacting ChatGPT citations, Perplexity visibility, and AI recommendations. This leads to “The Ghost Brand” effect: if your content disappears from search, your brand stops being discovered, AI tools stop mentioning you, and your visibility collapses across the entire discovery ecosystem.</span>
+One dangerous reality in 2026 is that if AI can generate a similar version of your article in seconds, Google has little reason to keep your page indexed, with the hardest-hit categories being SaaS, SEO, YMYL websites, and informational “how-to” content because these topics are easiest to replicate. This creates the “MT. AI Cascade,” a multi-LLMs crisis where dropping visibility in Google causes AI tools to stop trusting your content, impacting ChatGPT citations, Perplexity visibility, and AI recommendations. This leads to “The Ghost Brand” effect: if your content disappears from search, your brand stops being discovered, AI tools stop mentioning you, and your visibility collapses across the entire discovery ecosystem.
 
-<span class="mark">The era of easy SEO and low-effort content is ending as Google looks for signals AI cannot easily fake, such as original research, real-world experience, actual experiments, unique screenshots, and proof of effort. What survives in 2026 is content that is experience-driven, insight-led, difficult to replicate, and genuinely useful; the goal is no longer to “publish more,” but to “create something worth indexing.</span>
+The era of easy SEO and low-effort content is ending as Google looks for signals AI cannot easily fake, such as original research, real-world experience, actual experiments, unique screenshots, and proof of effort. What survives in 2026 is content that is experience-driven, insight-led, difficult to replicate, and genuinely useful; the goal is no longer to “publish more,” but to “create something worth indexing.
 
-**<span class="mark">Year: March 2026: Questions</span>**
+## Year: March 2026: Questions
 
-<span class="mark">Q.) Where does ChatGPT get its data?</span>
+**Question:** Where does ChatGPT get its data?
 
-Q.) Where does Gemini get its data?
+**Question:** Where does Gemini get its data?
 
-Q.) Where does Perplexity get its data?
+**Question:** Where does Perplexity get its data?
 
-Q.) Where does Claude get its data?
+**Question:** Where does Claude get its data?
 
-Q.) Where does Grok get its data?
+**Question:** Where does Grok get its data?
 
-Q.) How to Optimise for ChatGPT, Perplexity, Google Gemini, Google AI mode, Google Ai Overview, Claude, Microsoft Copilot, Deepseek
+**Question:** How to Optimise for ChatGPT, Perplexity, Google Gemini, Google AI mode, Google Ai Overview, Claude, Microsoft Copilot, Deepseek
 
-Q.) AI Chatbots prioritise: High authority domains, Concise and factual information, Well-structured HTML (headings, lists, schema), Semantic clarity (entities, relationships, topical depth)
+**Question:** AI Chatbots prioritise: High authority domains, Concise and factual information, Well-structured HTML (headings, lists, schema), Semantic clarity (entities, relationships, topical depth)
 
-Q.) Whats the fundamental difference betweeen SEO & GEO
+**Question:** Whats the fundamental difference betweeen SEO & GEO
 
-Q.) Same Query, But Different Answers, No fixed SERP left
+**Question:** Same Query, But Different Answers, No fixed SERP left
 
-Q.) Which bots visit which pages, how often, and how soon after publication
+**Question:** Which bots visit which pages, how often, and how soon after publication
 
-Q.) What that reveals about how AI engines select their sources
+**Question:** What that reveals about how AI engines select their sources
 
-Q.) Who Does Google Trust in AI Overviews for SEO Advice?
+**Question:** Who Does Google Trust in AI Overviews for SEO Advice?
 
-Q.) How Google Answers "Where to Buy": An AI Overview Analysis
+**Question:** How Google Answers "Where to Buy": An AI Overview Analysis
 
-Q.) How the Web Actually Uses [<u>Schema.org</u>](http://schema.org)
+**Question:** How the Web Actually Uses [Schema.org](http://schema.org)
 
-Q.) What is llms.txt and how does it direct AI crawlers?
+**Question:** What is llms.txt and how does it direct AI crawlers?
 
-Q.) How do JavaScript-heavy frameworks affect AI passage retrieval?
+**Question:** How do JavaScript-heavy frameworks affect AI passage retrieval?
 
-Q.) How do AI engines evaluate "Freshness" vs. "Evergreen Authority"?
+**Question:** How do AI engines evaluate "Freshness" vs. "Evergreen Authority"?
 
-Q.) How do you measure share of voice when CTR drops on AI SERPs?
+**Question:** How do you measure share of voice when CTR drops on AI SERPs?
 
-Q.) How can site owners track dark traffic originating from LLMs?
+**Question:** How can site owners track dark traffic originating from LLMs?
 
-Q.) What is the role of Reddit and YouTube in driving AI citations?
+**Question:** What is the role of Reddit and YouTube in driving AI citations?
 
-Q.) How does Unlinked Brand Mentioning influence Knowledge Graph inclusion?
+**Question:** How does Unlinked Brand Mentioning influence Knowledge Graph inclusion?
 
-Q.) How do publishers monetize content when AI engines answer zero-click queries?
+**Question:** How do publishers monetize content when AI engines answer zero-click queries?
 
-**<span class="mark">Date: 09 April 2026</span>**
+## Date: 09 April 2026
 
 **URL:** <https://signal.zyppy.com/p/winning-google>
 
 Cyrus Shepard analyzed **400+ winning and losing websites** and found that Google is increasingly rewarding websites that offer something AI and generic content cannot easily replicate.
 
-**Important Findings from article**
+### Important Findings from article
 
 **1. Offer a Product or Service**
 
@@ -283,7 +285,7 @@ Cyrus Shepard analyzed **400+ winning and losing websites** and found that Googl
 
 - **Example:** Millions of users search terms such as "Groww SIP Calculator", "Groww Login", "Groww Mutual Funds", "Groww Brokerage Calculator", "Groww App", and "Groww IPO". High branded search demand signals trust and popularity to Google.
 
-**<span class="mark">Date: 15 May 2026</span>**
+## Date: 15 May 2026
 
 **Google Search:** intext: "in today's fast paced world"
 
@@ -297,7 +299,7 @@ People are using AI to write content, and Google knows what's happening!
 
 ![Original screenshot](media/image62.png)
 
-**<span class="mark">Date: 15 May 2026</span>**
+## Date: 15 May 2026
 
 **Question:** How does **ChatGPT** know about new content on my website?
 
@@ -349,10 +351,10 @@ Link: [How Copilot Updates Website Content](https://copilot.microsoft.com/shares
 
 ![Original screenshot](media/image70.png)
 
-**<span class="mark">Date: 20 May 2026</span>**
+## Date: 20 May 2026
 
-**<span class="mark">John Mueller Explains Why Google Uses Markdown On Dev Docs  
-</span>Link:** <https://bsky.app/profile/johnmu.com/post/3mmb6iecq4k2n>
+**John Mueller Explains Why Google Uses Markdown On Dev Docs
+Link:** <https://bsky.app/profile/johnmu.com/post/3mmb6iecq4k2n>
 
 ![Original screenshot](media/image78.png)
 
@@ -362,7 +364,7 @@ Link: [How Copilot Updates Website Content](https://copilot.microsoft.com/shares
 
 ![Original screenshot](media/image41.png)
 
-**<span class="mark">Year: June 2026</span>**
+## Year: June 2026
 
 **Sector:** BFSI
 
@@ -440,7 +442,7 @@ This raises an important question: If AI is driving brands toward similar optimi
 
 ![Original screenshot](media/image56.png)
 
-**<span class="mark">Date: 12 May 2026</span>**
+## Date: 12 May 2026
 
 **Sector:** BFSI
 
@@ -518,11 +520,11 @@ In my opinion, **here old age SEO saying works**, like focus on good content in 
 
 ![Original screenshot](media/image16.png)
 
-**Tamil Language Content (Means Regional Content) Ranking in AI Overview**
+### Tamil Language Content (Means Regional Content) Ranking in AI Overview
 
-**Translated Regional Content Coming in Google AI Overview**
+### Translated Regional Content Coming in Google AI Overview
 
-**<span class="mark">Keyword: cagr meaning in tamil</span>**
+**Keyword: cagr meaning in tamil**
 
 ![Original screenshot](media/image63.png)
 
@@ -590,9 +592,9 @@ Players like Zerodha, Investopedia, Bajaj Finserv, and Angel One are ranking. Al
 
 ![Original screenshot](media/image24.png)
 
-<span class="mark">**Link:** [From Keywords to Entities: The Evolution of Search Understanding - The HOTH](https://www.thehoth.com/blog/from-keywords-to-entities/)</span>
+**Link:** [From Keywords to Entities: The Evolution of Search Understanding - The HOTH](https://www.thehoth.com/blog/from-keywords-to-entities/)
 
-**Google AI Guides:**
+### Google AI Guides:
 
 - [A new resource for optimizing for generative AI in Google Search](https://developers.google.com/search/blog/2026/05/a-new-resource-for-optimizing)
 
@@ -604,40 +606,38 @@ Players like Zerodha, Investopedia, Bajaj Finserv, and Angel One are ranking. Al
 
 - [How people are using AI Mode in the U.S.](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/AI-Mode-US-Insights.pdf)
 
-- 
+### Note 1:
 
-**<span class="mark">Note 1:</span>**
+Google now grades your website on something most marketing teams have never heard of. It’s called Agentic Browsing. A new audit inside Google’s own Lighthouse tool that scores how well AI agents can read, navigate and transact on your site.
 
-<span class="mark">Google now grades your website on something most marketing teams have never heard of. It’s called Agentic Browsing. A new audit inside Google’s own Lighthouse tool that scores how well AI agents can read, navigate and transact on your site.</span>
+Let that sink in: Google has built an official scorecard for AI-agent readiness. That’s not a trend. That’s a signal. The good news? You don’t need to learn to code to act on this.
 
-<span class="mark">Let that sink in: Google has built an official scorecard for AI-agent readiness. That’s not a trend. That’s a signal. The good news? You don’t need to learn to code to act on this.</span>
+1. Ask your dev or SEO agency: “What’s our Lighthouse Agentic Browsing result?”
 
-<span class="mark">1. Ask your dev or SEO agency: “What’s our Lighthouse Agentic Browsing result?”</span>
+2. Ask whether every button, link and form on your key templates has a proper name an agent can read. (This is the accessibility tree - the map AI agents use to navigate.)
 
-<span class="mark">2. Ask whether every button, link and form on your key templates has a proper name an agent can read. (This is the accessibility tree - the map AI agents use to navigate.)</span>
+3. Ask if your pricing and key product info live as real text, not locked inside images an agent can’t open.
 
-<span class="mark">3. Ask if your pricing and key product info live as real text, not locked inside images an agent can’t open.</span>
+Three questions. One meeting. That’s the gap between being recommendable by AI and being skipped by it.
 
-<span class="mark">Three questions. One meeting. That’s the gap between being recommendable by AI and being skipped by it.</span>
+Every one of these fixes also improves your website for real human users and assistive technology. It’s the rare project where accessibility, SEO and AI visibility all win at once.So run full Agentic Browsing Audits and agent search optimisation for brands that want this handled properly
 
-<span class="mark">Every one of these fixes also improves your website for real human users and assistive technology. It’s the rare project where accessibility, SEO and AI visibility all win at once.So run full Agentic Browsing Audits and agent search optimisation for brands that want this handled properly</span>
+### Note 2:
 
-**<span class="mark">Note 2:</span>**
+You might be getting cited on AI with SEO practices thats happening not just because of SEO, SEO is the enabler here definitely but the “consensus” about your brand outside of the website influence its the most.
 
-<span class="mark">You might be getting cited on AI with SEO practices thats happening not just because of SEO, SEO is the enabler here definitely but the “consensus” about your brand outside of the website influence its the most.</span>
+The industry talks about GEO as if it started with AI search, but **[Google's shift to entity-based search began in 2012 with the Knowledge Graph](https://blog.google/products-and-platforms/products/search/introducing-knowledge-graph-things-not/). That was Google's move from matching keywords to understanding entities aka things and relationships(semantics).**
 
-<span class="mark">The industry talks about GEO as if it started with AI search, but **[Google's shift to entity-based search began in 2012 with the Knowledge Graph](https://blog.google/products-and-platforms/products/search/introducing-knowledge-graph-things-not/). That was Google's move from matching keywords to understanding entities aka things and relationships(semantics).**</span>
+SEO could help pages rank. GEO requires becoming a trusted source within the right knowledge clusters. That's why SEO fundamentals, and marketing fundamentals matter more than ever. **AI didn't create a new game. It simply exposed who built on foundations and who built on tactics.
+**
 
-<span class="mark">SEO could help pages rank. GEO requires becoming a trusted source within the right knowledge clusters. That's why SEO fundamentals, and marketing fundamentals matter more than ever. **AI didn't create a new game. It simply exposed who built on foundations and who built on tactics.  
-**</span>
+### Note 3:
 
-**<span class="mark">Note 3:</span>**
+Most people are rushing to learn new tools while ignoring the thing that gives tools direction in the first place i.e. thinking. Data, automation and AI are only useful when someone knows what to look for, what to ignore and how to connect the dots. Otherwise, even the best stack just produces faster bad decisions. It's like buying a Ferrari before you've even learned how to drive.
 
-<span class="mark">Most people are rushing to learn new tools while ignoring the thing that gives tools direction in the first place i.e. thinking. Data, automation and AI are only useful when someone knows what to look for, what to ignore and how to connect the dots. Otherwise, even the best stack just produces faster bad decisions. It's like buying a Ferrari before you've even learned how to drive.</span>
+### My Learnings:
 
-**<span class="mark">My Learnings:</span>**
-
-**My Experience: Not Only for AI, but Also for Marketing Strategies & SEO**
+### My Experience: Not Only for AI, but Also for Marketing Strategies & SEO
 
 There are a lot of data-backed insights, research studies, and experiments available on the web. However, when you're working on client projects or within an in-house team, you often don't have much freedom to run experiments on websites. Most clients are cautious and have concerns such as: What if we lose traffic? What if keyword rankings drop?These are common questions, and clients have every right to ask them. But if you don't take even small, calculated risks, how will you know what actually works and what doesn't?
 
@@ -649,13 +649,13 @@ The **biggest learning for me** has been that research and case studies can poin
 
 ![Original screenshot](media/image12.png)
 
-**25 AEO, GEO, LLM SEO facts (to stop you from wasting money on something that doesn’t work)**
+### 25 AEO, GEO, LLM SEO facts (to stop you from wasting money on something that doesn’t work)
 
 <https://x.com/harpreetchatha_/status/2069991843367198774>
 
 I was doing content analysis and I found sentence **in the world of trading**. I believe this is Ai content
 
-# **Brand: m.Stocks**
+### Brand: m.Stocks
 
 ![Original screenshot](media/image4.png)
 
@@ -665,7 +665,7 @@ I was doing content analysis and I found sentence **in the world of trading**. I
 
 ![Original screenshot](media/image19.png)
 
-# **Brand: Groww**
+### Brand: Groww
 
 ![Original screenshot](media/image85.png)
 
@@ -673,7 +673,7 @@ I was doing content analysis and I found sentence **in the world of trading**. I
 
 ![Original screenshot](media/image83.png)
 
-# **Brand: 5paisa**
+### Brand: 5paisa
 
 ![Original screenshot](media/image74.png)
 
@@ -687,15 +687,15 @@ I was doing content analysis and I found sentence **in the world of trading**. I
 
 ![Original screenshot](media/image65.png)
 
-# **Brand: Zerodha**
+### Brand: Zerodha
 
 ![Original screenshot](media/image32.png)
 
 Referral traffic from ChatGPT can drop for **two broad reasons**: ChatGPT is sending fewer visitors, or GA4 is no longer classifying those visitors correctly.
 
-## **Most likely reasons**
+## Most likely reasons
 
-### **1. Your pages are being cited less often**
+### 1. Your pages are being cited less often
 
 ChatGPT does not display the same websites for every similar query. Its source selection can change based on:
 
@@ -715,7 +715,7 @@ ChatGPT does not display the same websites for every similar query. Its source s
 
 A page may still rank well on Google but lose ChatGPT citations because AI search evaluates and combines sources differently.
 
-### **2. Users are getting the answer without clicking**
+### 2. Users are getting the answer without clicking
 
 ChatGPT often summarises the required information directly in the response. A website can continue appearing as a citation while receiving fewer clicks, especially for:
 
@@ -731,7 +731,7 @@ ChatGPT often summarises the required information directly in the response. A we
 
 This means your **AI visibility may not have fallen as much as your referral sessions suggest**. The click-through rate may simply have declined.
 
-### **3. ChatGPT traffic is being classified under another source**
+### 3. ChatGPT traffic is being classified under another source
 
 OpenAI says links from ChatGPT Search generally contain:
 
@@ -747,9 +747,9 @@ Therefore, the traffic may appear in GA4 under:
 
 - A campaign-based traffic source rather than the Referral channel
 
-Check **Session source**, not only the default channel group. OpenAI confirms that ChatGPT Search links use utm_source=chatgpt.com for tracking. ([<u>OpenAI Help Center</u>](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq?utm_source=chatgpt.com))
+Check **Session source**, not only the default channel group. OpenAI confirms that ChatGPT Search links use utm_source=chatgpt.com for tracking. ([OpenAI Help Center](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq?utm_source=chatgpt.com))
 
-### **4. Some visits may now be counted as direct traffic**
+### 4. Some visits may now be counted as direct traffic
 
 Traffic-source information can be lost when:
 
@@ -765,7 +765,7 @@ Traffic-source information can be lost when:
 
 - The user copies and pastes the URL instead of clicking it
 
-GA4 places visits without identifiable referral information under (direct) / (none). ([<u>Google Help</u>](https://support.google.com/analytics/answer/15258820?hl=en&utm_source=chatgpt.com))
+GA4 places visits without identifiable referral information under (direct) / (none). ([Google Help](https://support.google.com/analytics/answer/15258820?hl=en&utm_source=chatgpt.com))
 
 Check whether the ChatGPT decline happened alongside an unusual rise in:
 
@@ -773,9 +773,9 @@ Check whether the ChatGPT decline happened alongside an unusual rise in:
 
 on the same landing pages.
 
-### **5. Robots.txt or firewall rules changed**
+### 5. Robots.txt or firewall rules changed
 
-For pages to appear in ChatGPT Search, OpenAI recommends allowing OAI-SearchBot. This crawler is separate from GPTBot, which relates to model training. A site may block GPTBot while still allowing OAI-SearchBot. ([<u>OpenAI Developers</u>](https://developers.openai.com/api/docs/bots?utm_source=chatgpt.com))
+For pages to appear in ChatGPT Search, OpenAI recommends allowing OAI-SearchBot. This crawler is separate from GPTBot, which relates to model training. A site may block GPTBot while still allowing OAI-SearchBot. ([OpenAI Developers](https://developers.openai.com/api/docs/bots?utm_source=chatgpt.com))
 
 Check for rules such as:
 
@@ -795,9 +795,9 @@ Also check whether Cloudflare, your CDN, security plugin or server firewall is r
 
 - Geo-based restrictions
 
-A robots.txt update can take roughly 24 hours to be reflected by OpenAI’s systems. ([<u>OpenAI Developers</u>](https://developers.openai.com/api/docs/bots?utm_source=chatgpt.com))
+A robots.txt update can take roughly 24 hours to be reflected by OpenAI’s systems. ([OpenAI Developers](https://developers.openai.com/api/docs/bots?utm_source=chatgpt.com))
 
-### **6. Important content changed or disappeared**
+### 6. Important content changed or disappeared
 
 Referral traffic can fall after:
 
@@ -821,7 +821,7 @@ Referral traffic can fall after:
 
 Compare the affected landing pages before and after the decline.
 
-### **7. Competitors have created more citation-friendly content**
+### 7. Competitors have created more citation-friendly content
 
 ChatGPT tends to benefit from pages that provide extractable evidence. Competitors may now offer:
 
@@ -845,7 +845,7 @@ ChatGPT tends to benefit from pages that provide extractable evidence. Competito
 
 Generic 1,000-word articles without distinctive evidence are easier for AI systems to replace with other sources.
 
-### **8. The decline may be seasonal or query-driven**
+### 8. The decline may be seasonal or query-driven
 
 ChatGPT referral traffic is often concentrated across a small number of pages. If interest in those questions drops, total traffic can fall sharply.
 
@@ -865,7 +865,7 @@ Look at:
 
 Do not assess ChatGPT only at the domain-wide level.
 
-## **How to diagnose it in GA4**
+## How to diagnose it in GA4
 
 Go to:
 
@@ -895,7 +895,7 @@ Then compare the latest period with the previous period and inspect:
 
 7.  Country
 
-GA4 distinguishes between first-user and session-level acquisition dimensions, so use **Session source** when investigating visits during a particular period. ([<u>Google Help</u>](https://support.google.com/analytics/answer/11080067?hl=en&utm_source=chatgpt.com))
+GA4 distinguishes between first-user and session-level acquisition dimensions, so use **Session source** when investigating visits during a particular period. ([Google Help](https://support.google.com/analytics/answer/11080067?hl=en&utm_source=chatgpt.com))
 
 Also create a broader filter containing:
 
@@ -905,7 +905,7 @@ openai
 
 This prevents you from missing variations in the source field.
 
-## **A practical interpretation framework**
+## A practical interpretation framework
 
 | **What you observe**                                                              | **Likely explanation**                                 |
 |-----------------------------------------------------------------------------------|--------------------------------------------------------|
@@ -917,7 +917,7 @@ This prevents you from missing variations in the source field.
 | Previously cited URLs now redirect                                                | URL or UTM loss                                        |
 | New content gets no referrals                                                     | Weak crawlability, authority or citation value         |
 
-## **What to do next**
+## What to do next
 
 First, verify tracking and crawlability. Then improve the pages that previously attracted ChatGPT traffic by adding:
 
@@ -941,45 +941,45 @@ Do not optimise only for the phrase “ChatGPT traffic.” Optimise pages to bec
 
 The most important first check is to identify the exact date of the decline. A sudden one-day drop usually points to tracking or technical changes; a gradual decline is more likely related to citation competition, content freshness or changing user behaviour.
 
-Date: 11 January, 2026
+## Date: 11 January, 2026
 
-[<u>https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/</u>](https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/)
+[https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/](https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/)
 
-Date: 6 August, 2025
+## Date: 6 August, 2025
 
-[<u>https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/</u>](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/)
+[https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/](https://blog.google/products-and-platforms/products/search/ai-search-driving-more-queries-higher-quality-clicks/)
 
-Date: 29 September, 2025
+## Date: 29 September, 2025
 
-[<u>https://openai.com/index/buy-it-in-chatgpt/</u>](https://openai.com/index/buy-it-in-chatgpt/)
+[https://openai.com/index/buy-it-in-chatgpt/](https://openai.com/index/buy-it-in-chatgpt/)
 
-**Opinion**  
-<span class="mark">AI is like politics. Everyone claims to “know it” But only a few actually thrive in the real trenches. Without deep SEO expertise, you are just another opinion in the crowd.</span>
+### Opinion
+AI is like politics. Everyone claims to “know it” But only a few actually thrive in the real trenches. Without deep SEO expertise, you are just another opinion in the crowd.
 
-**Opinion**
+### Opinion
 
-- <span class="mark">I want to share a few more takeaways about this topic:</span>
+- I want to share a few more takeaways about this topic:
 
-- <span class="mark">AI doesn't rely on a single source. It cross-references information from multiple places.</span>
+- AI doesn't rely on a single source. It cross-references information from multiple places.
 
-- <span class="mark">Your website is usually the source of truth for current information, but external sources provide context, reputation, and user sentiment.</span>
+- Your website is usually the source of truth for current information, but external sources provide context, reputation, and user sentiment.
 
-- <span class="mark">If enough websites repeat outdated or incorrect information, AI may start treating it as consensus.</span>
+- If enough websites repeat outdated or incorrect information, AI may start treating it as consensus.
 
-- <span class="mark">Not all sources carry the same weight. Official websites, LinkedIn, Crunchbase, review platforms, and reputable news outlets tend to be more influential than random blogs or forum posts.</span>
+- Not all sources carry the same weight. Official websites, LinkedIn, Crunchbase, review platforms, and reputable news outlets tend to be more influential than random blogs or forum posts.
 
-- <span class="mark">The more consistent your information is across the web, the more confident AI can be in its answers.</span>
+- The more consistent your information is across the web, the more confident AI can be in its answers.
 
-<span class="mark">This is why "digital hygiene" is becoming increasingly important.</span>
+This is why "digital hygiene" is becoming increasingly important.
 
-<span class="mark">Have you ever asked ChatGPT, Claude, or Gemini about your company and found something inaccurate?</span>
+Have you ever asked ChatGPT, Claude, or Gemini about your company and found something inaccurate?
 
-<span class="mark">Manus is my favorite tool for that as it has the most accurate information.</span>
+Manus is my favorite tool for that as it has the most accurate information.
 
-**<span class="mark">Date: 18 August 2026</span>**
+## Date: 18 August 2026
 
 No AI model can tell you what's actually working in GEO this month. The rules of organic and AI search are changing every few weeks. Nobody has the full playbook.
 
-[<u>https://openai.com/index/openai-and-reddit-partnership/</u>](https://openai.com/index/openai-and-reddit-partnership/)
+[https://openai.com/index/openai-and-reddit-partnership/](https://openai.com/index/openai-and-reddit-partnership/)
 
-[<u>https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt</u>](https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt)
+[https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt](https://promptwatch.com/data/reddit-citations-are-dropping-in-chatgpt)
