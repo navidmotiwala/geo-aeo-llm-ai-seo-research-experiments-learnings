@@ -22,4 +22,4 @@ Research notes, questions, observations, case studies, and links from the origin
 
 The original wording and research observations are retained in the Markdown conversion rather than rewritten or fact-checked. Dates and views belong to the original notes.
 
-**Images:** The source Word document contains screenshots and visual evidence. These have not yet been uploaded into this repository, so this text edition does not include them. 
+**Images:** The original screenshots are included in the `media/` folder and displayed inline in [RESEARCH.md](RESEARCH.md). 

@@ -155,7 +155,7 @@ Link: <https://bsky.app/profile/johnmu.com/post/3m6dayx6iyc2r>
 
 <https://searchengineland.com/llm-only-pages-ai-search-467690>
 
-<img src="/mnt/data/geo_github/media/image13.png" style="width:6.5in;height:4.56944in" />
+![Original screenshot](media/image13.png)
 
 **<span class="mark">Date: 03 February 2026</span>**
 
@@ -289,13 +289,13 @@ Cyrus Shepard analyzed **400+ winning and losing websites** and found that Googl
 
 People are using AI to write content, and Google knows what's happening!
 
-<img src="/mnt/data/geo_github/media/image61.png" style="width:6.5in;height:3.68056in" />
+![Original screenshot](media/image61.png)
 
-<img src="/mnt/data/geo_github/media/image77.png" style="width:6.5in;height:4.70833in" />
+![Original screenshot](media/image77.png)
 
-<img src="/mnt/data/geo_github/media/image6.png" style="width:6.5in;height:4.44444in" />
+![Original screenshot](media/image6.png)
 
-<img src="/mnt/data/geo_github/media/image62.png" style="width:6.5in;height:4.41667in" />
+![Original screenshot](media/image62.png)
 
 **<span class="mark">Date: 15 May 2026</span>**
 
@@ -303,64 +303,64 @@ People are using AI to write content, and Google knows what's happening!
 
 **Link:** <https://chatgpt.com/share/6a2f9c71-73f8-83ee-8fde-58bdc21f22a0>
 
-<img src="/mnt/data/geo_github/media/image27.png" style="width:6.5in;height:3.04167in" />
+![Original screenshot](media/image27.png)
 
 **Question:** How does **Claude** know about new content on my website?
 
 **Link:** <https://claude.ai/share/1b0367e6-c58c-4568-bfbe-b239872460cc>
 
-<img src="/mnt/data/geo_github/media/image21.png" style="width:6.5in;height:3.47222in" />
+![Original screenshot](media/image21.png)
 
 **Question:** How does **Perplexity** know about new content on my website?
 
 **Link:** <https://www.perplexity.ai/search/how-does-perplexity-know-about-CtxZJMm6QAi7nKap.l9KIg>
 
-<img src="/mnt/data/geo_github/media/image64.png" style="width:6.5in;height:3.08333in" />
+![Original screenshot](media/image64.png)
 
 **Question:** How does **Grok** know about new content on my website?
 
 **Link:** <https://grok.com/share/c2hhcmQtNQ_cd1813b4-c81a-4cf8-a3b2-0226c83c5c07>
 
-<img src="/mnt/data/geo_github/media/image48.png" style="width:6.5in;height:3.01389in" />
+![Original screenshot](media/image48.png)
 
 **Question:** How does **Microsoft Copilot** know about new content on my website?
 
 Link: [How Copilot Updates Website Content](https://copilot.microsoft.com/shares/br5oux4Vewbxro43MumXb)
 
-<img src="/mnt/data/geo_github/media/image59.png" style="width:6.5in;height:2.98611in" />
+![Original screenshot](media/image59.png)
 
-<img src="/mnt/data/geo_github/media/image68.png" style="width:6.5in;height:0.81944in" />
+![Original screenshot](media/image68.png)
 
 **Question:** How does **Google AI Mode & Google AI Overview** know about new content on my website?
 
 **Link:** <https://share.google/aimode/6xXKCfuMqusl0tlN6>
 
-<img src="/mnt/data/geo_github/media/image36.png" style="width:6.5in;height:3.08333in" />
+![Original screenshot](media/image36.png)
 
 **Question:** How does **DeepSeek** know about new content on my website?
 
 **Link:** <https://chat.deepseek.com/share/xg06yutiec4l70ndrp>
 
-<img src="/mnt/data/geo_github/media/image87.png" style="width:6.5in;height:4.15278in" />
+![Original screenshot](media/image87.png)
 
 **Question:** How does **Qwen** know about new content on my website?
 
 **Link:** <https://chat.qwen.ai/s/acd61c91-71b7-4af3-910b-787fb1a0dd93?fev=0.2.64>
 
-<img src="/mnt/data/geo_github/media/image70.png" style="width:6.5in;height:3.13889in" />
+![Original screenshot](media/image70.png)
 
 **<span class="mark">Date: 20 May 2026</span>**
 
 **<span class="mark">John Mueller Explains Why Google Uses Markdown On Dev Docs  
 </span>Link:** <https://bsky.app/profile/johnmu.com/post/3mmb6iecq4k2n>
 
-<img src="/mnt/data/geo_github/media/image78.png" style="width:6.5in;height:4.83333in" />
+![Original screenshot](media/image78.png)
 
-<img src="/mnt/data/geo_github/media/image39.png" style="width:6.5in;height:5in" />
+![Original screenshot](media/image39.png)
 
-<img src="/mnt/data/geo_github/media/image58.png" style="width:6.5in;height:4.30556in" />
+![Original screenshot](media/image58.png)
 
-<img src="/mnt/data/geo_github/media/image41.png" style="width:6.5in;height:3.48611in" />
+![Original screenshot](media/image41.png)
 
 **<span class="mark">Year: June 2026</span>**
 
@@ -384,61 +384,61 @@ This raises an important question: If AI is driving brands toward similar optimi
 
 **Keyword: equity fund**
 
-<img src="/mnt/data/geo_github/media/image29.png" style="width:6.5in;height:4.16667in" />
+![Original screenshot](media/image29.png)
 
-<img src="/mnt/data/geo_github/media/image47.png" style="width:6.5in;height:4.79167in" />
+![Original screenshot](media/image47.png)
 
-<img src="/mnt/data/geo_github/media/image18.png" style="width:6.5in;height:4.5in" />
+![Original screenshot](media/image18.png)
 
-<img src="/mnt/data/geo_github/media/image2.png" style="width:6.5in;height:3.375in" />
+![Original screenshot](media/image2.png)
 
 **Keyword: fixed income**
 
-<img src="/mnt/data/geo_github/media/image1.png" style="width:6.5in;height:1.72222in" />
+![Original screenshot](media/image1.png)
 
-<img src="/mnt/data/geo_github/media/image81.png" style="width:6.5in;height:4.20833in" />
+![Original screenshot](media/image81.png)
 
-<img src="/mnt/data/geo_github/media/image60.png" style="width:6.125in;height:5.5in" />
+![Original screenshot](media/image60.png)
 
 **Keyword: fund of funds**
 
-<img src="/mnt/data/geo_github/media/image23.png" style="width:6.5in;height:4.65278in" />
+![Original screenshot](media/image23.png)
 
-<img src="/mnt/data/geo_github/media/image54.png" style="width:6.5in;height:1.61111in" />
+![Original screenshot](media/image54.png)
 
-<img src="/mnt/data/geo_github/media/image69.png" style="width:6.5in;height:1.58333in" />
+![Original screenshot](media/image69.png)
 
-<img src="/mnt/data/geo_github/media/image55.png" style="width:6.5in;height:3.55556in" />
+![Original screenshot](media/image55.png)
 
-<img src="/mnt/data/geo_github/media/image30.png" style="width:6.07292in;height:5.10417in" />
+![Original screenshot](media/image30.png)
 
 **Keyword: hybrid fund**
 
-<img src="/mnt/data/geo_github/media/image76.png" style="width:6.5in;height:1.36111in" />
+![Original screenshot](media/image76.png)
 
-<img src="/mnt/data/geo_github/media/image51.png" style="width:6.5in;height:1.56944in" />
+![Original screenshot](media/image51.png)
 
-<img src="/mnt/data/geo_github/media/image35.png" style="width:6.5in;height:1.33333in" />
+![Original screenshot](media/image35.png)
 
-<img src="/mnt/data/geo_github/media/image22.png" style="width:6.5in;height:1.41667in" />
+![Original screenshot](media/image22.png)
 
-<img src="/mnt/data/geo_github/media/image57.png" style="width:6.5in;height:1.44444in" />
+![Original screenshot](media/image57.png)
 
-<img src="/mnt/data/geo_github/media/image15.png" style="width:6.02083in;height:5.07292in" />
+![Original screenshot](media/image15.png)
 
 **Keyword: index fund**
 
-<img src="/mnt/data/geo_github/media/image46.png" style="width:6.5in;height:1.41667in" />
+![Original screenshot](media/image46.png)
 
-<img src="/mnt/data/geo_github/media/image66.png" style="width:6.5in;height:4.95833in" />
+![Original screenshot](media/image66.png)
 
-<img src="/mnt/data/geo_github/media/image38.png" style="width:6.5in;height:1.43056in" />
+![Original screenshot](media/image38.png)
 
-<img src="/mnt/data/geo_github/media/image43.png" style="width:6.5in;height:1.45833in" />
+![Original screenshot](media/image43.png)
 
-<img src="/mnt/data/geo_github/media/image45.png" style="width:6.5in;height:2.22222in" />
+![Original screenshot](media/image45.png)
 
-<img src="/mnt/data/geo_github/media/image56.png" style="width:6.33333in;height:5.41667in" />
+![Original screenshot](media/image56.png)
 
 **<span class="mark">Date: 12 May 2026</span>**
 
@@ -460,15 +460,15 @@ In my opinion, **here old age SEO saying works**, like focus on good content in 
 
 **Keyword: 3cd full form**
 
-<img src="/mnt/data/geo_github/media/image80.png" style="width:6.5in;height:3.36111in" />
+![Original screenshot](media/image80.png)
 
 **Keyword: 194 b tds**
 
-<img src="/mnt/data/geo_github/media/image9.png" style="width:6.5in;height:3.44444in" />
+![Original screenshot](media/image9.png)
 
 **Keyword: up me sone ka bhav**
 
-<img src="/mnt/data/geo_github/media/image53.png" style="width:6.5in;height:3.40278in" />
+![Original screenshot](media/image53.png)
 
 **Irrelevant Keyword: aadit palicha age**
 
@@ -486,37 +486,37 @@ In my opinion, **here old age SEO saying works**, like focus on good content in 
 
 **Position Type:** AI overview
 
-<img src="/mnt/data/geo_github/media/image11.png" style="width:6.5in;height:3.38889in" />
+![Original screenshot](media/image11.png)
 
 **Keyword: 1991 liberalisation**
 
-<img src="/mnt/data/geo_github/media/image25.png" style="width:6.5in;height:3.375in" />
+![Original screenshot](media/image25.png)
 
 **Keyword: 799 jio plan**
 
-<img src="/mnt/data/geo_github/media/image79.png" style="width:6.5in;height:3.375in" />
+![Original screenshot](media/image79.png)
 
-<img src="/mnt/data/geo_github/media/image44.png" style="width:6.11458in;height:3.1875in" />
+![Original screenshot](media/image44.png)
 
 **Keyword: bank hadtal**
 
-<img src="/mnt/data/geo_github/media/image40.png" style="width:6.5in;height:3.36111in" />
+![Original screenshot](media/image40.png)
 
 **Keyword: bhel ofs**
 
-<img src="/mnt/data/geo_github/media/image20.png" style="width:6.5in;height:3.375in" />
+![Original screenshot](media/image20.png)
 
 **Keyword: basket order**
 
-<img src="/mnt/data/geo_github/media/image3.png" style="width:6.5in;height:3.38889in" />
+![Original screenshot](media/image3.png)
 
 **Keyword: block deal**
 
-<img src="/mnt/data/geo_github/media/image84.png" style="width:6.5in;height:3.38889in" />
+![Original screenshot](media/image84.png)
 
 **Keyword: broking**
 
-<img src="/mnt/data/geo_github/media/image16.png" style="width:6.5in;height:3.375in" />
+![Original screenshot](media/image16.png)
 
 **Tamil Language Content (Means Regional Content) Ranking in AI Overview**
 
@@ -524,71 +524,71 @@ In my opinion, **here old age SEO saying works**, like focus on good content in 
 
 **<span class="mark">Keyword: cagr meaning in tamil</span>**
 
-<img src="/mnt/data/geo_github/media/image63.png" style="width:6.5in;height:3.15278in" />
+![Original screenshot](media/image63.png)
 
 **Keyword: dii**
 
-<img src="/mnt/data/geo_github/media/image71.png" style="width:6.5in;height:3.38889in" />
+![Original screenshot](media/image71.png)
 
 **Keyword: assam da**
 
-<img src="/mnt/data/geo_github/media/image52.png" style="width:6.5in;height:3.40278in" />
+![Original screenshot](media/image52.png)
 
 **Keyword: flipkart loss**
 
-<img src="/mnt/data/geo_github/media/image7.png" style="width:6.5in;height:3.38889in" />
+![Original screenshot](media/image7.png)
 
 **Keyword: week 52**
 
-<img src="/mnt/data/geo_github/media/image10.png" style="width:6.5in;height:3.375in" />
+![Original screenshot](media/image10.png)
 
 **Keyword: gst importance**
 
-<img src="/mnt/data/geo_github/media/image5.png" style="width:6.5in;height:3.40278in" />
+![Original screenshot](media/image5.png)
 
 **Keyword: all fo**
 
-<img src="/mnt/data/geo_github/media/image86.png" style="width:6.5in;height:3.47222in" />
+![Original screenshot](media/image86.png)
 
 **Keyword: bullish harami**
 
-<img src="/mnt/data/geo_github/media/image73.png" style="width:6.5in;height:3.11111in" />
+![Original screenshot](media/image73.png)
 
 **Keyword: below 20**
 
-<img src="/mnt/data/geo_github/media/image42.png" style="width:6.5in;height:3.34722in" />
+![Original screenshot](media/image42.png)
 
 **Keyword: rksv**
 
-<img src="/mnt/data/geo_github/media/image8.png" style="width:6.5in;height:3.38889in" />
+![Original screenshot](media/image8.png)
 
 **Keyword: silver price 1970**
 
-<img src="/mnt/data/geo_github/media/image31.png" style="width:6.5in;height:3.86111in" />
+![Original screenshot](media/image31.png)
 
 **Keyword: 2 split**
 
 Players like Zerodha, Investopedia, Bajaj Finserv, and Angel One are ranking. Also, players like flipart, hevy, croma, voltas, rentmojo, fitbod, puregym, instagram, and training.fit are ranking
 
-<img src="/mnt/data/geo_github/media/image75.png" style="width:6.5in;height:3.38889in" />
+![Original screenshot](media/image75.png)
 
-<img src="/mnt/data/geo_github/media/image49.png" style="width:6.5in;height:3.95833in" />
+![Original screenshot](media/image49.png)
 
-<img src="/mnt/data/geo_github/media/image14.png" style="width:6.5in;height:3.90278in" />
+![Original screenshot](media/image14.png)
 
-<img src="/mnt/data/geo_github/media/image82.png" style="width:6.5in;height:3.72222in" />
+![Original screenshot](media/image82.png)
 
 **Keyword: bsda**
 
-<img src="/mnt/data/geo_github/media/image67.png" style="width:6.5in;height:3.375in" />
+![Original screenshot](media/image67.png)
 
 **Keyword: molbio**
 
-<img src="/mnt/data/geo_github/media/image17.png" style="width:6.5in;height:3.38889in" />
+![Original screenshot](media/image17.png)
 
 **Keyword: about gold**
 
-<img src="/mnt/data/geo_github/media/image24.png" style="width:6.5in;height:3.375in" />
+![Original screenshot](media/image24.png)
 
 <span class="mark">**Link:** [From Keywords to Entities: The Evolution of Search Understanding - The HOTH](https://www.thehoth.com/blog/from-keywords-to-entities/)</span>
 
@@ -647,7 +647,7 @@ The **biggest learning for me** has been that research and case studies can poin
 
 **Link:** <https://www.linkedin.com/posts/devaiah-bopanna-6a50b716_moonshots-first-film-generated-completely-ugcPost-7472173444487450624-yw0o/>
 
-<img src="/mnt/data/geo_github/media/image12.png" style="width:4.61458in;height:6.13542in" />
+![Original screenshot](media/image12.png)
 
 **25 AEO, GEO, LLM SEO facts (to stop you from wasting money on something that doesn’t work)**
 
@@ -657,39 +657,39 @@ I was doing content analysis and I found sentence **in the world of trading**. I
 
 # **Brand: m.Stocks**
 
-<img src="/mnt/data/geo_github/media/image4.png" style="width:6.5in;height:3.26389in" />
+![Original screenshot](media/image4.png)
 
-<img src="/mnt/data/geo_github/media/image26.png" style="width:6.5in;height:3.26389in" />
+![Original screenshot](media/image26.png)
 
-<img src="/mnt/data/geo_github/media/image33.png" style="width:6.5in;height:3.38889in" />
+![Original screenshot](media/image33.png)
 
-<img src="/mnt/data/geo_github/media/image19.png" style="width:6.5in;height:5.08333in" />
+![Original screenshot](media/image19.png)
 
 # **Brand: Groww**
 
-<img src="/mnt/data/geo_github/media/image85.png" style="width:6.5in;height:4.98611in" />
+![Original screenshot](media/image85.png)
 
-<img src="/mnt/data/geo_github/media/image50.png" style="width:6.5in;height:3.80556in" />
+![Original screenshot](media/image50.png)
 
-<img src="/mnt/data/geo_github/media/image83.png" style="width:6.5in;height:4.72222in" />
+![Original screenshot](media/image83.png)
 
 # **Brand: 5paisa**
 
-<img src="/mnt/data/geo_github/media/image74.png" style="width:6.5in;height:4.52778in" />
+![Original screenshot](media/image74.png)
 
-<img src="/mnt/data/geo_github/media/image72.png" style="width:6.5in;height:4.65278in" />
+![Original screenshot](media/image72.png)
 
-<img src="/mnt/data/geo_github/media/image28.png" style="width:6.5in;height:4.52778in" />
+![Original screenshot](media/image28.png)
 
-<img src="/mnt/data/geo_github/media/image34.png" style="width:6.5in;height:5.27778in" />
+![Original screenshot](media/image34.png)
 
-<img src="/mnt/data/geo_github/media/image37.png" style="width:6.5in;height:4.83333in" />
+![Original screenshot](media/image37.png)
 
-<img src="/mnt/data/geo_github/media/image65.png" style="width:6.5in;height:4.69444in" />
+![Original screenshot](media/image65.png)
 
 # **Brand: Zerodha**
 
-<img src="/mnt/data/geo_github/media/image32.png" style="width:6.5in;height:3.59722in" />
+![Original screenshot](media/image32.png)
 
 Referral traffic from ChatGPT can drop for **two broad reasons**: ChatGPT is sending fewer visitors, or GA4 is no longer classifying those visitors correctly.
 
