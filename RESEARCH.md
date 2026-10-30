@@ -5,10 +5,11 @@
 **If the answer is yes**, because the page helps users make decisions, compare options, or discover content. **If the answer is no**, because the page mainly exists to target another keyword variation, then it is much closer to the type of content Google has been scrutinizing.
 
 ## Year: 2023
-**Industry:**** Real Estate / PropTech
-**Website Type:** Residential Property & Project Discovery Platform
-**Country:** India
-**Geographic Focus:**** Mumbai Metropolitan Region (Mumbai, Thane, Navi Mumbai)
+
+**Industry:** Real Estate / PropTech  
+**Website Type:** Residential Property & Project Discovery Platform  
+**Country:** India  
+**Geographic Focus:** Mumbai Metropolitan Region (Mumbai, Thane, Navi Mumbai)  
 **Key Competitors:** MagicBricks, Housing.com, 99acres, Square Yards
 
 I was working on a **PropTech project**, and our website was undergoing migration. Within a span of 6 months, the website went through migration twice. First, the client changed the website architecture and URL structure, and after 4 months, they decided to change the website design. There were a lot of issues on the website, and most of them were pending resolution from the website developer's side. The website pages were not fast, there were a lot of UI/UX issues, and meta tags and header tags were missing on most pages. Schema was also missing on the developers page, blog page, press release page, and other pages.
@@ -22,8 +23,8 @@ This experience taught me that strong topical relevance, content quality, and so
 I learned one thing: SEO is important, and if you work on the basics, it is possible to appear in Google AI Overview. Technical SEO is good, but strong fundamentals often have a greater impact on search visibility than many people realize.
 
 ## Year: 2024 to 2025
-**Industry:**** Cryptocurrency, Casino & Gambling
-**Website Type:** News
+**Industry:** Cryptocurrency, Casino & Gambling  
+**Website Type:** News  
 **Country:** USA, UK, UAE, Canada
 
 I was working on highly competitive websites in the news category, covering cryptocurrency, crypto price prediction pages, casino, and gambling. I worked on three websites, and all of them were in the news category.
